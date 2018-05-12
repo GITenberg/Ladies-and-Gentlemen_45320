@@ -1,0 +1,33 @@
+_repo: Ladies-and-Gentlemen_45320
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2014-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: A lady and a gentleman -- The order of the bath -- Two of everything
+  -- We of the Old South -- Killed with kindness -- Peace on earth -- Three wise men
+  of the East Side -- The cowboy and the lady and her pa -- A close shave -- Good
+  Sam -- How to choke a cat without using butter.
+title: Ladies and Gentlemen
+url: http://www.gutenberg.org/ebooks/45320
